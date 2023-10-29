@@ -1,0 +1,10 @@
+Şeyma 
+Doğan
+10735263120
+seyma_dogan@hacettepe.edu.tr
+Hello,my name is Şeyma Doğan and I'm studying Artificial Intelligence Engineering at Hacettepe University.
+I acknowledge that I have fully read and understood the contest of the course website;I will not share
+my work (not even a part of it) on Piazza; I will be responsible for what has been discussed/asked on
+Piazza; I will not expect any response for my questions that have already been asked or written in a
+language other than English.I understand that if I have any questions or concerns about the course
+mechanics, it's my responsibility to discuss them with the instructors within their office hours.
